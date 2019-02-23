@@ -1,5 +1,6 @@
-mod p7;
+mod p8;
 
 fn main() {
-    println!("p7 answer: {}", p7::answer());
+    let (a, b, c) = p8::answer();
+    println!("p7 answer: {}*{}*{} = {}", a, b, c, a*b*c);
 }
