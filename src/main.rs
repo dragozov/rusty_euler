@@ -1,6 +1,6 @@
-mod p8;
+mod p10;
+mod prime_numbers;
 
 fn main() {
-    let (a, b, c) = p8::answer();
-    println!("p7 answer: {}*{}*{} = {}", a, b, c, a*b*c);
+    println!("p10 answer: {}", p10::answer());
 }
