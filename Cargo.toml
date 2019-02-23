@@ -1,0 +1,7 @@
+[package]
+name = "euler"
+version = "0.1.0"
+authors = ["Plamen Dragozov <plamen@randomidea.com>"]
+edition = "2018"
+
+[dependencies]
