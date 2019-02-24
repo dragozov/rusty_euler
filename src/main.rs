@@ -1,6 +1,5 @@
-mod p10;
-mod prime_numbers;
+mod p11;
 
 fn main() {
-    println!("p10 answer: {}", p10::answer());
+    println!("p11 answer: {}", p11::answer());
 }
